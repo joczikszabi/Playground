@@ -1,4 +1,6 @@
 .DS_Store
+<<<<<<< HEAD
+=======
 node_modules
 /dist
 
@@ -21,3 +23,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+>>>>>>> Init TensorFlow Project added
